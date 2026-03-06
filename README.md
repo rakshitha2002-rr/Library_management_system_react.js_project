@@ -16,7 +16,7 @@ A minimalist, client-side library management application built with **React**, *
 - [📁 Project Structure](#-project-structure)
 - [🧑‍💻 Usage](#-usage)
 - [🐞 Troubleshooting](#-troubleshooting)
-- [🙌 Contributors](#-contributors)
+  
 
 ---
 
@@ -146,12 +146,7 @@ src/
 | Typescript build errors | Run `pnpm lint` and check type definitions |
 | CORS errors             | Enable CORS on backend server              |
 
----
 
-## 🙌 Contributors
 
-* [Walid Hasan](https://github.com/walid-official)
-
----
 
 
